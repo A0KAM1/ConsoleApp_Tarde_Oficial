@@ -8,6 +8,5 @@ namespace ConsoleApp_Tarde
 {
     internal class Produto
     {
-
     }
 }
